@@ -1,0 +1,9 @@
+- Tie MDL importing to the model import menu
+- allow switching from textured to flat shaded, smooth shaded &
+wireframe
+- clean up color palette and find out what's going wrong
+- implement translating
+- implement the 'group' (model) selector so we know which model to animate
+- implement animation
+- implement importing of md2, md3
+- implement exporting to mdl, md2, md3 and ms3

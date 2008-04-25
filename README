@@ -1,0 +1,10 @@
+Jenkara is a 3D modeler for GTK+ based on MilkShape 3D.  It is written with 
+tools that should compile on Win32 and Linux.  It is tested mainly on Linux
+(Debian Sid), and is currently in early stages.
+
+Features:
+Importing of Quake .mdl models
+Rotation, Zooming
+3D Textured & Wireframe views
+2D Wireframe Views from Top, Bottom, Left, Right Front & Back
+
