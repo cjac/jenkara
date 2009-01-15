@@ -1,6 +1,6 @@
 # Process this file with autoconf to produce a configure script.
-AC_INIT([jenkara], [0.1], [cjcollier@pobox.com])
-AM_INIT_AUTOMAKE([jenkara], [0.1], [cjcollier@pobox.com])
+AC_INIT([jenkara], [0.0.1], [cjcollier@pobox.com])
+AM_INIT_AUTOMAKE([jenkara], [0.0.1], [cjcollier@pobox.com])
 GNOME_COMMON_INIT
 AC_CONFIG_SRCDIR([ui/jenkara.glade])
 AM_CONFIG_HEADER(config.h)
