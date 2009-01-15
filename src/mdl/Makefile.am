@@ -1,5 +1,5 @@
 ## Process this file with automake to produce Makefile.in
-AM_CFLAGS = `libglade-config --cflags gnome -I/usr/include/gtkglarea/`
+AM_CFLAGS = $(GLADE_CFLAGS)
 
 lib_LIBRARIES = libmdl.a
 

@@ -22,8 +22,7 @@
 */
 
 #include "mdl.h"
-
-extern int errno;
+#include <errno.h>
 
 mdl_struct *
 load_mdl(const char *filename)

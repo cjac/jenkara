@@ -21,9 +21,9 @@
 
 */
 #include "import.h"
+#include <errno.h>
 
 extern jk_scene_struct *scene;
-extern int errno;
 
 /*this is just for play*/
 void export_targa(char *, char *);
